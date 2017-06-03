@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="881bb885-757c-4801-852a-971dcff3048c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/caffe_pose$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1495830522220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/caffe_pose$Caffe_Docker.coverage" NAME="Caffe-Docker Coverage Results" MODIFIED="1496391110983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/caffe_pose$bash.coverage" NAME="bash Coverage Results" MODIFIED="1495969887150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/caffe_pose$scratch__1_.coverage" NAME="scratch (1) Coverage Results" MODIFIED="1495740538896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="train_heatmap.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train_heatmap.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scratch.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scratch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="63" lean-forward="false" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bash.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bash.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="49" lean-forward="false" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SaveFigureAsImage</find>
+      <find>root</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/a.json" />
+        <option value="$PROJECT_DIR$/tools/slinto-scrapper.json" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/scratch.py" />
+        <option value="$PROJECT_DIR$/models/heatmap-flic-fusion/train_val.prototxt" />
+        <option value="$PROJECT_DIR$/models/heatmap-flic-fusion/bash.py" />
+        <option value="$PROJECT_DIR$/bash.py" />
+        <option value="$PROJECT_DIR$/train_heatmap.sh" />
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="813" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="caffe-pose" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caffe-pose" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="caffe-pose" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caffe-pose" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="caffe-pose" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caffe-pose" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="asl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="caffe-pose" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caffe-pose" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="asl" type="462c0819:PsiDirectoryNode" />
+              <item name="mp4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="caffe-pose" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caffe-pose" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="asl" type="462c0819:PsiDirectoryNode" />
+              <item name="png" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="caffe-pose" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caffe-pose" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="caffe-pose" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caffe-pose" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="heatmap-flic-fusion" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/data/asl" />
+      <recent name="$PROJECT_DIR$/data/slinto/mp4" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/tools" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/input" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Caffe-Docker">
+    <configuration name="Caffe-Docker" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="caffe-pose" />
+      <EXTENSION ID="DockerContainerSettingsRunConfigurationExtension">
+        <option name="envVars">
+          <list>
+            <DockerEnvVarImpl>
+              <option name="name" value="DISPLAY" />
+              <option name="value" value="10.0.1.13:0" />
+            </DockerEnvVarImpl>
+          </list>
+        </option>
+        <option name="extraHosts">
+          <list />
+        </option>
+        <option name="links">
+          <list />
+        </option>
+        <option name="networkDisabled" value="false" />
+        <option name="networkMode" value="bridge" />
+        <option name="portBindings">
+          <list />
+        </option>
+        <option name="publishAllPorts" value="false" />
+        <option name="version" value="1" />
+        <option name="volumeBindings">
+          <list>
+            <DockerVolumeBindingImpl>
+              <option name="containerPath" value="/root/caffe/project" />
+              <option name="editable" value="true" />
+              <option name="hostPath" value="$PROJECT_DIR$" />
+              <option name="readOnly" value="false" />
+            </DockerVolumeBindingImpl>
+            <DockerVolumeBindingImpl>
+              <option name="containerPath" value="/tmp/.X11-unix" />
+              <option name="editable" value="true" />
+              <option name="hostPath" value="/tmp/.X11-unix" />
+              <option name="readOnly" value="false" />
+            </DockerVolumeBindingImpl>
+          </list>
+        </option>
+      </EXTENSION>
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Docker Deployment" type="docker-deploy" factoryName="Docker Deployment" temporary="true" server-name="Docker">
+      <deployment type="dockerfile" path="$PROJECT_DIR$/Dockerfile">
+        <settings>
+          <option name="JSONFilePath" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="" />
+          <option name="startBrowserSettings">
+            <browser url="http://127.0.0.1" />
+          </option>
+        </settings>
+      </deployment>
+    </configuration>
+    <configuration name="Train" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="sh train_heatmap.sh heatmap-flic-fusion-1 0" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="bash" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="caffe-pose" />
+      <EXTENSION ID="DockerContainerSettingsRunConfigurationExtension">
+        <option name="envVars">
+          <list />
+        </option>
+        <option name="extraHosts">
+          <list />
+        </option>
+        <option name="links">
+          <list />
+        </option>
+        <option name="networkDisabled" value="false" />
+        <option name="networkMode" value="bridge" />
+        <option name="portBindings">
+          <list />
+        </option>
+        <option name="publishAllPorts" value="false" />
+        <option name="version" value="1" />
+        <option name="volumeBindings">
+          <list>
+            <DockerVolumeBindingImpl>
+              <option name="containerPath" value="/opt/caffe/caffe-pose" />
+              <option name="editable" value="true" />
+              <option name="hostPath" value="$PROJECT_DIR$" />
+              <option name="readOnly" value="false" />
+            </DockerVolumeBindingImpl>
+          </list>
+        </option>
+      </EXTENSION>
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bash.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="caffe-pose" />
+      <EXTENSION ID="DockerContainerSettingsRunConfigurationExtension">
+        <option name="envVars">
+          <list />
+        </option>
+        <option name="extraHosts">
+          <list />
+        </option>
+        <option name="links">
+          <list />
+        </option>
+        <option name="networkDisabled" value="false" />
+        <option name="networkMode" value="bridge" />
+        <option name="portBindings">
+          <list />
+        </option>
+        <option name="publishAllPorts" value="false" />
+        <option name="version" value="1" />
+        <option name="volumeBindings">
+          <list>
+            <DockerVolumeBindingImpl>
+              <option name="containerPath" value="/root/caffe/project" />
+              <option name="editable" value="true" />
+              <option name="hostPath" value="$PROJECT_DIR$" />
+              <option name="readOnly" value="false" />
+            </DockerVolumeBindingImpl>
+          </list>
+        </option>
+      </EXTENSION>
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Bash.Train" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Caffe-Docker" />
+      <item index="2" class="java.lang.String" itemvalue="Docker Deployment.Docker Deployment" />
+      <item index="3" class="java.lang.String" itemvalue="Python.scratch" />
+      <item index="4" class="java.lang.String" itemvalue="Python.bash" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.bash" />
+        <item index="1" class="java.lang.String" itemvalue="Python.scratch" />
+        <item index="2" class="java.lang.String" itemvalue="Docker Deployment.Docker Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="881bb885-757c-4801-852a-971dcff3048c" name="Default" comment="" />
+      <created>1495702509540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1495702509540</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="813" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34764543" sideWeight="0.5071531" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3259362" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25658807" sideWeight="0.49284694" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32331902" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918397" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/asl/png/1_dollar/26.png" />
+    <entry file="file://$PROJECT_DIR$/data/asl/png/1_dollar/17.png" />
+    <entry file="file://$PROJECT_DIR$/data/asl/png/1_dollar/5.png" />
+    <entry file="file://$PROJECT_DIR$/data/asl/png/1_dollar/9.png" />
+    <entry file="file://$PROJECT_DIR$/data/asl/png/1_dollar/13.png" />
+    <entry file="file://$PROJECT_DIR$/data/asl/png/1_dollar/19.png" />
+    <entry file="file://$PROJECT_DIR$/data/asl/png/1_dollar/24.png" />
+    <entry file="file://$PROJECT_DIR$/data/asl/png/1_dollar/15.png" />
+    <entry file="file://$PROJECT_DIR$/data/asl/png/1_dollar/11.png" />
+    <entry file="file://$PROJECT_DIR$/data/asl/png/1_dollar/7.png" />
+    <entry file="file://$PROJECT_DIR$/data/asl/png/1_dollar/4.png" />
+    <entry file="file://$PROJECT_DIR$/data/asl/png/1_dollar/2.png" />
+    <entry file="file://$PROJECT_DIR$/input/1_dollar/18.png" />
+    <entry file="file://$PROJECT_DIR$/input/1_dollar/4.png" />
+    <entry file="file://$PROJECT_DIR$/input/1_dollar/14.png" />
+    <entry file="file://$PROJECT_DIR$/input/1_dollar/12.png" />
+    <entry file="file://$PROJECT_DIR$/input/1_dollar/10.png" />
+    <entry file="file://$PROJECT_DIR$/input/1_dollar/8.png" />
+    <entry file="file://$PROJECT_DIR$/input/1_dollar/7.png" />
+    <entry file="file://$PROJECT_DIR$/data/output/1_dollar/4.png" />
+    <entry file="file://$PROJECT_DIR$/data/output/1_dollar/18.png" />
+    <entry file="file://$PROJECT_DIR$/data/output/1_dollar/15.png" />
+    <entry file="file://$PROJECT_DIR$/data/output/1_dollar/8.png" />
+    <entry file="file://$PROJECT_DIR$/tools/slinto-scrapper.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="271" column="109" lean-forward="false" selection-start-line="271" selection-start-column="109" selection-end-line="271" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/asl/png/age/11.png" />
+    <entry file="file://$PROJECT_DIR$/data/asl/png/age/17.png" />
+    <entry file="file://$PROJECT_DIR$/data/asl/png/age/10.png" />
+    <entry file="file://$PROJECT_DIR$/data/asl/png/age/1.png" />
+    <entry file="file://$PROJECT_DIR$/data/output/age/8.png" />
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/slinto/png/slinto/22.png" />
+    <entry file="file://$PROJECT_DIR$/data/slinto/png/slinto/20.png" />
+    <entry file="file://$PROJECT_DIR$/data/slinto/png/slinto/19.png" />
+    <entry file="file://$PROJECT_DIR$/data/slinto/png/slinto/3.png" />
+    <entry file="file://$PROJECT_DIR$/data/slinto/png/slinto/5.png" />
+    <entry file="file://$PROJECT_DIR$/data/slinto/png/slinto/8.png" />
+    <entry file="file://$PROJECT_DIR$/data/slinto/png/slinto/9.png" />
+    <entry file="file://$PROJECT_DIR$/data/slinto/png/slinto/11.png" />
+    <entry file="file://$PROJECT_DIR$/data/slinto/png/slinto/14.png" />
+    <entry file="file://$PROJECT_DIR$/data/slinto/png/slinto/13.png" />
+    <entry file="file://$PROJECT_DIR$/data/lsf/png/accueillir_4/52.png" />
+    <entry file="file://$PROJECT_DIR$/data/lsf/png/accueillir_4/45.png" />
+    <entry file="file://$PROJECT_DIR$/data/lsf/png/accueillir_4/40.png" />
+    <entry file="file://$PROJECT_DIR$/data/lsf/png/accueillir_4/38.png" />
+    <entry file="file://$PROJECT_DIR$/data/lsf/png/accueillir_4/7.png" />
+    <entry file="file://$PROJECT_DIR$/models/heatmap-flic-fusion/train_val.prototxt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="67" lean-forward="true" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="63" lean-forward="false" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bash.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="49" lean-forward="false" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_heatmap.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
