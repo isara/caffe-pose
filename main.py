@@ -81,7 +81,7 @@ for filename in os.listdir(caffe_root + folder + "/mp4"):
             for i in range(0, 7):
                 heatmapResized[i] = imresize(features[i], (256, 256), mode='F') - 1
 
-            np.save(caffe_root + 'data/heatmap/' + name + '/' + str(frame) + '.npy', heatmapResized[i])
+            np.save(caffe_root + 'data/heatmap/' + name + '/' + str(frame), heatmapResized)
 
             # joints = np.zeros((7, 2))
             #
