@@ -9,3 +9,5 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
         ffmpeg
 
 RUN pip install boto
+
+#docker build -t rizkyario/caffe docker/

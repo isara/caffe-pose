@@ -11,16 +11,15 @@ import boto.s3.connection
 from boto.s3.key import Key
 
 
-# Make sure that caffe is on the python path:
 caffe_root = '/root/caffe/project/'
-# import sys
-# sys.path.insert(0, caffe_root + 'python')
+# caffe_root="/Users/rizkyario/Documents/Codes/DeepLearning/caffe-pose/"
 
 plt.rcParams['figure.figsize'] = (10, 10)
 plt.rcParams['image.interpolation'] = 'nearest'
 plt.rcParams['image.cmap'] = 'gray'
 
 caffe.set_mode_cpu()
+# caffe.set_mode_gpu()
 # caffe.set_device(0)
 net = caffe.Net(caffe_root + 'models/heatmap-flic-fusion/matlab.prototxt',
                 caffe_root + 'models/heatmap-flic-fusion/caffe-heatmap-flic.caffemodel',
@@ -100,8 +99,8 @@ for n, line in enumerate(data, 0):
                                                  calling_format=boto.s3.connection.OrdinaryCallingFormat(),
                                                  )
 
-                bucket = conn.get_bucket('isara', validate=False)
-                file = caffe_root + 'data/heatmap/' + name + '/' + str(frame) + '.npy'
+                bucket = conn.get_bucket('isara')
+                file = caffe_root + 'data/heatmap_2/' + name + '/' + str(frame) + '.npy'
                 path = 'heatmap/' + name  # Directory Under which file should get upload
                 full_key_name = os.path.join(path, name + '.npy')
                 k = bucket.new_key(full_key_name)

@@ -2,508 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="881bb885-757c-4801-852a-971dcff3048c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/20.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/22.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/23.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/26.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/27.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/28.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/29.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/31.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/33.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/34.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/35.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/37.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/38.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/39.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/41.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/42.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/43.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/44.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/45.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/46.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/47.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/49.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/50.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/51.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/52.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/53.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/54.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/55.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/56.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/57.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/58.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/59.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/excuse/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/20.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/22.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/23.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/26.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/27.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/28.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/29.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/31.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/33.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/34.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/35.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/37.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/38.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/39.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/41.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/42.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/43.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/44.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/45.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/46.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/47.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/49.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/50.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/51.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/52.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/53.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/54.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/55.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/56.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/57.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/58.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/59.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/60.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/61.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/62.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/63.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/65.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/66.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/67.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/68.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/69.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/70.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/71.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/73.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/74.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/75.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/76.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/77.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/78.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/79.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/80.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/81.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/eyes/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/20.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/22.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/23.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/26.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/27.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/28.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/29.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/31.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/33.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/34.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/35.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/37.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/38.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/39.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/41.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/42.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/43.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/44.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/45.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/46.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/47.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/49.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/50.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/51.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/52.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/53.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/54.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/55.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/56.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/57.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/58.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/february/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/20.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/22.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/23.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/26.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/27.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/28.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/29.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/31.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/33.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/34.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/35.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/37.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/38.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/39.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/41.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/42.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/43.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/44.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/45.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/46.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/47.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/49.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/50.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/51.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/52.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/53.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/54.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/55.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/56.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/57.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/58.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/59.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/60.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/61.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/62.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/63.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/65.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/66.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/67.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/68.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/69.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/70.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/png/strawberry/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/square/excuse_square.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/square/eyes_square.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/square/february_square.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/asl/square/strawberry_square.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/1.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/10.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/11.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/12.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/13.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/14.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/15.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/17.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/18.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/19.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/20.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/21.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/22.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/23.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/24.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/25.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/26.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/27.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/28.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/29.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/3.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/30.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/31.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/32.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/33.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/34.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/35.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/36.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/37.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/38.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/39.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/4.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/40.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/41.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/42.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/43.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/44.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/45.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/46.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/47.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/48.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/49.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/5.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/50.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/51.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/52.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/53.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/54.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/55.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/56.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/57.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/58.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/6.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/7.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/8.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/excuse/9.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/1.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/10.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/11.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/12.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/13.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/14.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/15.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/17.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/18.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/19.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/20.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/21.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/22.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/23.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/24.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/25.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/26.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/27.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/28.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/29.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/3.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/30.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/31.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/32.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/33.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/34.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/35.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/36.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/37.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/38.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/39.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/4.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/40.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/41.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/42.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/43.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/44.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/45.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/46.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/47.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/48.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/49.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/5.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/50.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/51.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/52.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/53.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/54.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/55.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/56.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/57.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/58.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/59.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/6.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/60.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/61.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/62.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/63.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/64.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/65.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/66.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/67.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/68.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/69.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/7.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/70.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/71.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/72.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/73.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/74.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/75.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/76.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/77.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/78.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/79.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/8.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/80.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/eyes/9.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/1.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/10.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/11.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/12.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/13.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/14.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/15.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/17.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/18.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/19.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/20.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/21.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/22.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/23.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/24.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/25.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/26.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/27.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/28.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/29.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/3.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/30.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/31.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/32.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/33.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/34.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/35.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/36.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/37.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/38.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/39.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/4.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/40.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/41.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/42.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/43.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/44.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/45.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/46.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/47.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/48.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/49.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/5.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/50.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/51.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/52.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/53.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/54.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/55.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/56.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/57.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/6.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/7.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/8.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/february/9.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/1.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/10.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/11.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/12.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/13.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/14.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/15.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/17.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/18.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/19.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/20.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/21.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/22.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/23.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/24.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/25.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/26.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/3.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/4.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/5.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/6.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/7.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/8.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/heatmap/strawberry/9.npy" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/caffe-pose.iml" afterPath="$PROJECT_DIR$/.idea/caffe-pose.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main-joints.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Dockerfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/load.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/preprocessing.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scratch.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/upload.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/docker/multicore/Dockerfile" afterPath="$PROJECT_DIR$/docker/multicpu/Dockerfile" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main-server.py" afterPath="$PROJECT_DIR$/main-heatmaps.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main-joints2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dockerfile" afterPath="$PROJECT_DIR$/Dockerfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/Dockerfile" afterPath="$PROJECT_DIR$/docker/Dockerfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/gpu/Dockerfile" afterPath="$PROJECT_DIR$/docker/gpu/Dockerfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main-server.py" afterPath="$PROJECT_DIR$/main-server.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/preprocessing.py" afterPath="$PROJECT_DIR$/preprocessing.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -514,72 +24,22 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/caffe_pose$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1495830522220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/caffe_pose$Caffe_Docker.coverage" NAME="Caffe-Docker Coverage Results" MODIFIED="1498062320058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/caffe_pose$Caffe_Docker.coverage" NAME="Caffe-Docker Coverage Results" MODIFIED="1498107575823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/caffe_pose$bash.coverage" NAME="bash Coverage Results" MODIFIED="1495969887150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/caffe_pose$scratch__1_.coverage" NAME="scratch (1) Coverage Results" MODIFIED="1495740538896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/caffe_pose$main_joints2.coverage" NAME="main-joints2 Coverage Results" MODIFIED="1498218348562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/caffe_pose$heatmaps2joints.coverage" NAME="heatmaps2joints Coverage Results" MODIFIED="1498217665580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main-server.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main-server.py">
+      <file leaf-file-name="main-joints2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main-joints2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="35" />
+            <state relative-caret-position="183">
+              <caret line="107" column="38" lean-forward="false" selection-start-line="107" selection-start-column="38" selection-end-line="107" selection-end-column="38" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
-                <marker date="1498064155488" expanded="true" signature="1197:3281" ph="..." />
-                <marker date="1498064155488" expanded="true" signature="2526:3281" ph="..." />
-                <marker date="1498064155488" expanded="true" signature="2645:3281" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="upload.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/upload.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-                <marker date="1498064155490" expanded="true" signature="183:742" ph="..." />
-                <marker date="1498064155490" expanded="true" signature="859:894" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="14">
-                <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="33" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docker/Dockerfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="preprocessing.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/preprocessing.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14">
-              <caret line="13" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="38" />
-              <folding>
-                <marker date="1498064155489" expanded="true" signature="0:7" ph="import ..." />
-                <marker date="1498064155489" expanded="true" signature="1438:1440" ph="..." />
+                <marker date="1498218347024" expanded="true" signature="2659:4839" ph="..." />
               </folding>
             </state>
           </provider>
@@ -621,12 +81,16 @@
         <option value="$PROJECT_DIR$/docker/Docker-caffe-multicore" />
         <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/load.py" />
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/preprocessing.py" />
-        <option value="$PROJECT_DIR$/docker/Dockerfile" />
-        <option value="$PROJECT_DIR$/main-server.py" />
         <option value="$PROJECT_DIR$/upload.py" />
         <option value="$PROJECT_DIR$/docker/gpu/Dockerfile" />
+        <option value="$PROJECT_DIR$/docker/Dockerfile" />
+        <option value="$PROJECT_DIR$/main-server.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/main-heatmaps.py" />
+        <option value="$PROJECT_DIR$/heatmaps2joints.py" />
+        <option value="$PROJECT_DIR$/main-joints.py" />
+        <option value="$PROJECT_DIR$/main-joints2.py" />
       </list>
     </option>
   </component>
@@ -639,7 +103,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="813" />
+    <option name="height" value="808" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -657,25 +121,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="caffe-pose" type="b2602c69:ProjectViewProjectNode" />
               <item name="caffe-pose" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="caffe-pose" type="b2602c69:ProjectViewProjectNode" />
-              <item name="caffe-pose" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="caffe-pose" type="b2602c69:ProjectViewProjectNode" />
-              <item name="caffe-pose" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="heatmap" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -690,15 +143,16 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/input" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docker/heatmap" />
       <recent name="$PROJECT_DIR$/docker/gpu" />
       <recent name="$PROJECT_DIR$/docker/multicore" />
       <recent name="$PROJECT_DIR$/docker" />
       <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/input" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -713,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Caffe-Docker">
+  <component name="RunManager" selected="Python.main-joints2">
     <configuration name="Caffe-Docker" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -772,7 +226,7 @@
         </option>
       </EXTENSION>
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/upload.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main-heatmaps.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -998,6 +452,70 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="heatmaps2joints" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="caffe-pose" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/heatmaps2joints.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="main-joints2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="docker://rizkyario/caffe:latest/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="caffe-pose" />
+      <EXTENSION ID="DockerContainerSettingsRunConfigurationExtension">
+        <option name="envVars">
+          <list />
+        </option>
+        <option name="extraHosts">
+          <list />
+        </option>
+        <option name="links">
+          <list />
+        </option>
+        <option name="networkDisabled" value="false" />
+        <option name="networkMode" value="bridge" />
+        <option name="portBindings">
+          <list />
+        </option>
+        <option name="publishAllPorts" value="false" />
+        <option name="version" value="1" />
+        <option name="volumeBindings">
+          <list>
+            <DockerVolumeBindingImpl>
+              <option name="containerPath" value="/opt/project" />
+              <option name="editable" value="true" />
+              <option name="hostPath" value="$PROJECT_DIR$" />
+              <option name="readOnly" value="false" />
+            </DockerVolumeBindingImpl>
+          </list>
+        </option>
+      </EXTENSION>
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main-joints2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1044,18 +562,22 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="5">
+    <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Bash.Train" />
       <item index="1" class="java.lang.String" itemvalue="Python.Caffe-Docker" />
       <item index="2" class="java.lang.String" itemvalue="Docker Deployment.Docker Deployment" />
       <item index="3" class="java.lang.String" itemvalue="Python.scratch" />
       <item index="4" class="java.lang.String" itemvalue="Python.bash" />
+      <item index="5" class="java.lang.String" itemvalue="Python.heatmaps2joints" />
+      <item index="6" class="java.lang.String" itemvalue="Python.main-joints2" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.bash" />
-        <item index="1" class="java.lang.String" itemvalue="Python.scratch" />
-        <item index="2" class="java.lang.String" itemvalue="Docker Deployment.Docker Deployment" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.main-joints2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.heatmaps2joints" />
+        <item index="2" class="java.lang.String" itemvalue="Python.bash" />
+        <item index="3" class="java.lang.String" itemvalue="Python.scratch" />
+        <item index="4" class="java.lang.String" itemvalue="Docker Deployment.Docker Deployment" />
       </list>
     </recent_temporary>
   </component>
@@ -1072,18 +594,27 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="813" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1440" height="808" extended-state="0" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4206128" sideWeight="0.5343348" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4206128" sideWeight="0.46566522" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959327" sideWeight="0.49427754" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959327" sideWeight="0.50572246" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42215988" sideWeight="0.46280402" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962447" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286908" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36072424" sideWeight="0.4613734" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26680973" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32819074" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35904628" sideWeight="0.8898426" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20386267" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32823366" sideWeight="0.49713877" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918397" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39972144" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1094,7 +625,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918397" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1111,9 +641,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/input/1_dollar/18.png" />
-    <entry file="file://$PROJECT_DIR$/input/1_dollar/4.png" />
-    <entry file="file://$PROJECT_DIR$/input/1_dollar/14.png" />
     <entry file="file://$PROJECT_DIR$/input/1_dollar/12.png" />
     <entry file="file://$PROJECT_DIR$/input/1_dollar/10.png" />
     <entry file="file://$PROJECT_DIR$/input/1_dollar/8.png" />
@@ -1163,27 +690,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scratch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/output/accident/15.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/heatmapVis.m" />
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="42" column="40" lean-forward="false" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker/multicore/Dockerfile">
+    <entry file="file://$PROJECT_DIR$/docker/multicpu/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="84" lean-forward="false" selection-start-line="0" selection-start-column="84" selection-end-line="0" selection-end-column="84" />
@@ -1211,34 +724,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/load.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main 2.py" />
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-350">
-          <caret line="42" column="8" lean-forward="false" selection-start-line="42" selection-start-column="8" selection-end-line="44" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#18#0" expanded="false" />
-            <marker date="1498064155489" expanded="true" signature="3172:4601" ph="..." />
-            <marker date="1498064155489" expanded="true" signature="4589:4601" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preprocessing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
-          <caret line="13" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="38" />
-          <folding>
-            <marker date="1498064155489" expanded="true" signature="0:7" ph="import ..." />
-            <marker date="1498064155489" expanded="true" signature="1438:1440" ph="..." />
-          </folding>
+        <state relative-caret-position="504">
+          <caret line="36" column="82" lean-forward="false" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="84" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1246,8 +737,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="14">
-            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="33" />
-            <folding />
+            <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="33" />
           </first_editor>
           <second_editor />
         </state>
@@ -1258,44 +748,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main-server.py">
+    <entry file="file://$PROJECT_DIR$/preprocessing.py" />
+    <entry file="file://$PROJECT_DIR$/scratch.py" />
+    <entry file="file://$PROJECT_DIR$/upload.py" />
+    <entry file="file://$PROJECT_DIR$/docker/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <marker date="1498064155488" expanded="true" signature="1197:3281" ph="..." />
-            <marker date="1498064155488" expanded="true" signature="2526:3281" ph="..." />
-            <marker date="1498064155488" expanded="true" signature="2645:3281" ph="..." />
-          </folding>
+        <state relative-caret-position="126">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/upload.py">
+    <entry file="file://$PROJECT_DIR$/load.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <marker date="1498064155490" expanded="true" signature="183:742" ph="..." />
-            <marker date="1498064155490" expanded="true" signature="859:894" ph="..." />
-          </folding>
+        <state relative-caret-position="42">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docker/gpu/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="35" column="80" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="84" />
+        <state relative-caret-position="539">
+          <caret line="56" column="20" lean-forward="false" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/Dockerfile">
+    <entry file="file://$PROJECT_DIR$/main-heatmaps2joints.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main-heatmaps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="13" column="35" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main-joints.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="12" column="43" lean-forward="false" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+          <folding>
+            <marker date="1498218118785" expanded="true" signature="3081:4362" ph="..." />
+            <marker date="1498218118785" expanded="true" signature="3094:4362" ph="..." />
+            <marker date="1498218118785" expanded="true" signature="4352:4362" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heatmaps2joints.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="36" column="4" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="37" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main-joints2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="107" column="38" lean-forward="false" selection-start-line="107" selection-start-column="38" selection-end-line="107" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1498218347024" expanded="true" signature="2659:4839" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
