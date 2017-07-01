@@ -1,2 +1,2 @@
-./data/heatmap
-./data/joints
+./data/heatmap/*
+./data/joints/*
