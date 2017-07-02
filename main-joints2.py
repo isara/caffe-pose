@@ -22,7 +22,7 @@ def define_center_one_frame_one_joint(joint_image, size_sliding_window = 10):
             joint_image_sum[i,j] = np.sum(joint_image[i:i+size_sliding_window,j:j+size_sliding_window])
     return np.unravel_index(np.argmax(joint_image_sum), joint_image_sum.shape)
 
-def define_center_one_frame_every_joints(one_frame_image, size_sliding_window = 10):
+def define_center_one_frame_every_joints(one_frame_image, name, frame, size_sliding_window = 10):
     '''
     define_center_one_frame_every_joins defines for every joints its argmax relative to the heatmap
     one_frame_image : Array(nb_joints,n,m) - an array that represents the heatmap for every joints
@@ -31,7 +31,8 @@ def define_center_one_frame_every_joints(one_frame_image, size_sliding_window = 
     list_joints_location = []
     for i in range(one_frame_image.shape[0]):
         list_joints_location.append(define_center_one_frame_one_joint(one_frame_image[i], size_sliding_window))
-    return list_joints_location
+
+    np.save(caffe_root + 'data/joints/' + name + '/' + str(frame) + '.npy', list_joints_location)
 
 caffe_root = '/opt/project/'
 # caffe_root="/Users/rizkyario/Documents/Codes/DeepLearning/caffe-pose/"
@@ -112,6 +113,5 @@ for n, line in enumerate(data, 0):
             for i in range(0, 7):
                 heatmapResized[i] = imresize(features[i], (256, 256), mode='F') - 1
 
-            list_joints_location = define_center_one_frame_every_joints(heatmapResized, 10)
+            define_center_one_frame_every_joints(heatmapResized, name, frame, 10)
 
-            np.save(caffe_root + 'data/joints/' + name + '/' + str(frame) + '.npy', list_joints_location)

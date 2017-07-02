@@ -1,2 +1,4 @@
 ./data/heatmap/*
 ./data/joints/*
+./data/asl/square/*
+./data/asl/png/*

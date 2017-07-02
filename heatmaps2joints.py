@@ -52,13 +52,30 @@ conn = boto.s3.connect_to_region('us-east-1',
 
 bucket = conn.get_bucket('isara')
 
+threads = []
+consumed_by_threads = 0
+consumed_by_main = 0
+
+import threading
+
 for key in bucket.list():
     print key.name
     if 'heatmap/' in key.name:
         folder = key.name.split('/')[1]+'/'
         file = key.name.split('/')[2]
         
-        heatmaps2joins(folder, file)
+        # heatmaps2joins(folder, file)
 
         # import threading
         # t = threading.Thread(target=heatmaps2joins, args=(folder, file,)).start()
+
+        at = threading.activeCount()
+        if at <= 5:
+            t = threading.Thread(target=heatmaps2joins, args=(folder, file,))
+            threads.append(t)
+            consumed_by_threads += 1
+            t.start()
+        else:
+            print "active threads:", at
+            consumed_by_main += 1
+            heatmaps2joins(folder, file)
