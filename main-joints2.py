@@ -32,7 +32,7 @@ def define_center_one_frame_every_joints(one_frame_image, name, frame, size_slid
     for i in range(one_frame_image.shape[0]):
         list_joints_location.append(define_center_one_frame_one_joint(one_frame_image[i], size_sliding_window))
 
-    np.save(caffe_root + 'data/joints/' + name + '/' + str(frame) + '.npy', list_joints_location)
+    np.save(caffe_root + folder + '/joints/' + name + '/' + str(frame) + '.npy', list_joints_location)
 
 caffe_root = '/opt/project/'
 # caffe_root="/Users/rizkyario/Documents/Codes/DeepLearning/caffe-pose/"
@@ -41,9 +41,9 @@ plt.rcParams['figure.figsize'] = (10, 10)
 plt.rcParams['image.interpolation'] = 'nearest'
 plt.rcParams['image.cmap'] = 'gray'
 
-caffe.set_mode_cpu()
-# caffe.set_mode_gpu()
-# caffe.set_device(0)
+# caffe.set_mode_cpu()
+caffe.set_mode_gpu()
+caffe.set_device(0)
 net = caffe.Net(caffe_root + 'models/heatmap-flic-fusion/matlab.prototxt',
                 caffe_root + 'models/heatmap-flic-fusion/caffe-heatmap-flic.caffemodel',
                 caffe.TEST)
