@@ -38,7 +38,7 @@ for n, line in enumerate(data, 0):
     file_count = len(files)
 
     # dump heatmaps
-    cmd1 = "mkdir -p data/hands/%s" % (name)
+    cmd1 = "mkdir -p " +folder+"/hands/%s" % (name)
     subprocess.Popen(cmd1, shell=True)
 
     # frame = 12
@@ -55,25 +55,12 @@ for n, line in enumerate(data, 0):
 
         joint = 1
         if(os.path.exists(caffe_root + folder + '/hands/' + name + '/' + str(frame) + '.png')==False):
-            joints = np.load(caffe_root + folder + '/joints/' + name + '/' + str(frame) + '.npy')
+            if(os.path.exists(caffe_root + folder + '/joints/' + name + '/' + str(frame) + '.npy')==True):
+                joints = np.load(caffe_root + folder + '/joints/' + name + '/' + str(frame) + '.npy')
+
+                img = Image.open(caffe_root + folder + '/png/' + name + '/' + str(frame) + '.png')
+                area = (joints[joint][1]-50, joints[joint][0]-50, joints[joint][1]+50, joints[joint][0]+50)
+                cropped_img = img.crop(area)
+                cropped_img.save(caffe_root + folder + '/hands/' + name + '/' + str(frame) + '.png')
             
-
-
-            img = Image.open(caffe_root + folder + '/png/' + name + '/' + str(frame) + '.png')
-            area = (joints[joint][1]-50, joints[joint][0]-50, joints[joint][1]+50, joints[joint][0]+50)
-            cropped_img = img.crop(area)
-            cropped_img.show()
-            
-            # plt.plot([joints[1][0], joints[3][0]], [joints[1][1], joints[3][1]], '.r-', linewidth=3, zorder=1)
-            # plt.plot([joints[3][0], joints[5][0]], [joints[3][1], joints[5][1]], '.g-', linewidth=3, zorder=1)
-            
-            # plt.plot([joints[2][0], joints[4][0]], [joints[2][1], joints[4][1]], '.r-', linewidth=3, zorder=1)
-            # plt.plot([joints[4][0], joints[6][0]], [joints[4][1], joints[6][1]], '.g-', linewidth=3, zorder=1)
-
-            # cmap = cm.get_cmap(name='rainbow')
-            # for i in range(0,7):
-            #     plt.scatter(joints[i][1], 256 - joints[i][0], color=cmap(i * 256 / 7), s=40, zorder=2)
-
-            # plt.show()
-            # print joints
             
